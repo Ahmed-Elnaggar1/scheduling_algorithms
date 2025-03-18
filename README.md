@@ -71,3 +71,11 @@ To execute all test cases and verify output correctness:
 ```bash
 ./tester.sh
 ```
+### FCFS Scheduling Output  
+![FCFS Scheduling](https://res.cloudinary.com/dgqimvydy/image/upload/v1742304329/yhsk2eo35cawppnfvkuk.png)
+
+### Round Robin Scheduling Output  
+![RR Scheduling](https://res.cloudinary.com/dgqimvydy/image/upload/v1742304329/ldxqgbivdgavsr4a1k2g.png)
+
+### Aging Scheduling Output  
+![Aging Scheduling](https://res.cloudinary.com/dgqimvydy/image/upload/v1742304329/l0viobdfpa10jaausrdb.png)
