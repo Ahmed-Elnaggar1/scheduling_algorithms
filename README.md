@@ -22,10 +22,7 @@ Each scheduling method is visualized using a graphical representation, showcasin
 ## Project Structure
 ```
 📂 scheduling-algorithms
-│-- 📂 src               # Source code for the scheduling algorithms
-│-- 📂 images            # Visualization images for each algorithm
 │-- 📂 test_cases        # Predefined test cases for validation
-│-- 📂 scripts           # Utility scripts for automation
 │-- 📝 Dockerfile        # Docker setup for execution
 │-- 📝 README.md         # Project documentation
 │-- 📝 tester.sh         # Shell script for automatic testing
